@@ -1,2 +1,2 @@
 # DuckWorld
-Duckville Coding
+Duckville Coding made simple
